@@ -1,0 +1,22 @@
+1. npm init --y
+2. npm install express
+3.npm install body-parser
+4.npm install cookie-parser
+5.npm install --save multer
+6.npm install jsonwebtoken
+7.npm i my-sql
+8.npm i mongoose
+9.npm i dotenv
+10.npm i cors
+11.npm i express-mongo-sanitize
+12.npm i express-rate-limit
+13.npm i helmet
+14.npm i hpp
+
+
+
+// Eta faisal vaier command
+-----------------------------
+// npm init --y ==> package.json 
+// npm i nodemon -D  ==> npm run start
+// npm i bcrypt cors dotenv express express-formidable helmet jsonwebtoken mongoose morgan slugify
