@@ -1,6 +1,16 @@
 
-const app = require('./app')
+const app = require('./app');
 
-app.listen(5000,function(){
+
+/*
+const dontEnv = require('dotenv');
+dontEnv.config({path:'./config.env'});
+
+app.listen(process.env.RUNNING_PORT,function(){
     console.log('run....');
+})
+*/
+
+app.listen(4000,function(){
+    console.log('run.......');
 })
